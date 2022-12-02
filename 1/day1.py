@@ -21,6 +21,6 @@ def calorieInput(input):
 
 def sort(elfArray):
     elfArray.sort(reverse=True)
-    print(elfArray[0])
+    print(elfArray[0]+elfArray[1]+elfArray[2])
         
 calorieInput(input)
