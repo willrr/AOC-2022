@@ -23,11 +23,11 @@ def battle(opponent, you):
         case "A":
             match you:
                 case "X":
-                    return 4
-                case "Y":
-                    return 8
-                case "Z":
                     return 3
+                case "Y":
+                    return 4
+                case "Z":
+                    return 8
         case "B":
             match you:
                 case "X":
@@ -39,11 +39,11 @@ def battle(opponent, you):
         case "C":
             match you:
                 case "X":
-                    return 7
-                case "Y":
                     return 2
-                case "Z":
+                case "Y":
                     return 6
+                case "Z":
+                    return 7
     #print(opponent)
     #print(you)
 

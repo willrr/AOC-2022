@@ -62,3 +62,24 @@ The total score is still calculated in the same way, but now you need to figure 
 Now that you're correctly decrypting the ultra top secret strategy guide, you would get a total score of 12.
 
 Following the Elf's instructions for the second column, what would your total score be if everything goes exactly according to your strategy guide?
+
+A Rock 
+B Paper
+C Scissors
+
+X Rock 1
+Y Paper 2 
+Z Scissors 3 
+0 3 6
+
+A X 3
+A Y 4
+A Z 8
+
+B X 1
+B Y 5
+B Z 9
+
+C X 2
+C Y 6
+C Z 7
